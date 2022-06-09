@@ -1,0 +1,18 @@
+table
+{
+    width: 600px;
+}
+ul li 
+{
+    margin: 10px;
+    list-style: none;
+}
+hr
+{
+    size: 2;
+    width: 600px;
+}
+img
+{
+    float: left;
+}
